@@ -1,5 +1,5 @@
 /**
-* Please Jangan Di Hapus Info Dan Tq To Nya
+* Jangan Ubah, Nanti Eror. Kalo Eror Jangsn Salahin Gw
 **/
 
 /**
