@@ -15,8 +15,8 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ OTHER ]━━━━━━━━━━━━━━━━━//
 
-global.ownername = 'Minami-Bot'//Nama Bot Kaliam
-global.owner = ['6281223918622']//Nomor Owner Kalian (Bebas)
+global.ownername = 'Paskal-Bot'//Nama Bot Kaliam
+global.owner = ['6285824098069']//Nomor Owner Kalian (Bebas)
 global.packname = 'RiyoXdz'//Bebas Mau Ganti Apa Gak
 global.author = 'RiypXdz'//Jangan Di Ganti 
 global.prefa = ['','!','.','🐦','🐤','🗿']//Jangan Di Ganti
