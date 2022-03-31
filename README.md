@@ -1,6 +1,6 @@
-<h1 align="center">Aprilia3 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<h1 align="center">RiyoXdz <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/4a277a5eb76602b5d47d4.jpg" />
+<img src="https://telegra.ph/file/84f32bf55fef88930af22.jpg" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ------
 
-# ```BASE SC ZERO YT7```
+# ```BASE SC ZERO YT
 <p align="center">
 <a href="https://github.com/Aprilia3/followers"><img title="Followers" src="https://img.shields.io/github/followers/Aprilia3?color=red&style=flat-square"></a>
 <a href="https://github.com/Aprilia3/Loli-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Aprilia3/Loli-MD?color=blue&style=flat-square"></a>
