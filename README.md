@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-- [`PROFILE CREATOR`](https://webasu-lea27yssy-aprilia3.vercel.app/)
+- [`CONTACT CREATOR`](wa.me/+6281223918622)
 </p>
 
 ------
