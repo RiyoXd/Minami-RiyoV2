@@ -29,8 +29,8 @@
 <p align="center">
 <a href="https://instagram.com/riyoxdz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 <a href="https://wa.me/6281223918622"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.youtube.com/c/RIYOXDZ"><img src="https://img.shields.io/badge/YouTube BOT INDO-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/RIYOXDZ" /><br>
-<a href="https://tiktok.com/@riyoxdz"><img src="https://img.shields.io/badge/Tiktok prii-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@riyoxdz" /></a>
+<a href="https://www.youtube.com/c/RIYOXDZ"><img src="https://img.shields.io/badge/YouTube RIYO XDZ-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/RIYOXDZ" /><br>
+<a href="https://tiktok.com/@riyoxdz"><img src="https://img.shields.io/badge/Tiktok riyoxdz-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@riyoxdz" /></a>
 </p>
 
 ## ```DONASI```
