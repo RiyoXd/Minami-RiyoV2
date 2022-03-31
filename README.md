@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-- [`CONTACT CREATOR`](wa.me/+6281223918622)
+- [`CONTACT CREATOR`](081223918622)
 </p>
 
 ------
